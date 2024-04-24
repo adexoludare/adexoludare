@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adexoludare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adexoludare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adedipupo oludare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedipupo oludare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adedipupo-oludare-666822a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedipupo oludare" height="30" width="40" /></a>
 <a href="https://fb.com/adexoludare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adexoludare" height="30" width="40" /></a>
 </p>
 

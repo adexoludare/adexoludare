@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adedipupo Oludare</h1>
-<h3 align="center">a full-stack developer with a focus on front-end development. I am passionate about turning ideas into reality and creating user-friendly interfaces and functionalities that meet users' needs.</h3>
+<h3 align="center">am an innovative Front End Developer with a passion in building and maintaining responsive websites and user-friendly web application. I am passionate about turning ideas into reality and creating user-friendly interfaces and functionalities that meet users' needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adexoludare&label=Profile%20views&color=0e75b6&style=flat" alt="adexoludare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adexoludare" alt="adexoludare" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Juice Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

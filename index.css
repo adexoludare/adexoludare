@@ -71,6 +71,10 @@ top: 25%;
     z-index: 1;
 }
 
+.menu .btn:focus, .menu .btn:hover{
+    color: #7A1CAC;
+}
+
 /* light/dark mode setting */
 body{
     --header-height: 70px;
@@ -83,6 +87,10 @@ body{
 .darkMode{
     background: #2E073F;
     color: #EBD3F8;
+}
+
+.darkMode, body{
+    
 }
 
 /*  */
@@ -148,6 +156,29 @@ body{
     background: #7A1CAC;
     color: #EBD3F8;
 }
+.darkMode .nav-link-active,
+.darkMode .nav-link:hover{
+    background: #7A1CAC;
+    color: #deb7f3;
+}
+.darkMode .nav-link{
+    color: #7A1CAC;
+}
+/* link decoration */
+a{
+    text-decoration: none;
+    color: #7A1CAC;
+}
+a:focus, a:hover{
+    color: #2E073F;
+}
+.darkMode a{
+    text-decoration: none;
+    color: #EBD3F8;
+}
+.darkMode a:focus, .darkMode a:hover{
+    color: #7A1CAC;
+}
 
 /* mode switch icon setting */
 .mode{
@@ -171,7 +202,10 @@ body{
     justify-content: space-evenly;
     padding: 2em;
 }
-
+.Home, .Home .darkMode{
+    background-image: url("./assets/bg.png");
+    background-size: cover;
+}
 .Home{
     justify-content: center;
     align-items: center;
@@ -218,6 +252,19 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+
+/* Project section */
+.Projects{
+    padding: var(--header-height);
+}
+.projects__row-img{
+    width: 450px;
+    margin: 0.7em 0.5em;
+}
+.projects__row-content-desc{
+    margin-bottom: 8px;
+}
+
 /* Resume section */
 .resContainer{
     display: flex;
@@ -225,7 +272,7 @@ body{
 }
 
 .Resume{
-    /* height: 200vh; */
+    padding-top: var(--header-height);
     background: rgba(235, 211, 248, 0.5);
 }
 .skills{
@@ -239,7 +286,7 @@ body{
 /* Contact */
 .Contact{
     text-align: center;
-    margin-top: 5%;
+    margin-top: var(--header-height);
     height: 60vh;
 }
 .topBer{
@@ -363,6 +410,10 @@ aside{
         font-size: 1.5rem;
     }
 
+    .darkMode .nav-link{
+        color: #ffffff;
+    }
+
     .nav-link-active,
     .nav-link:hover{
     color: #EBD3F8;
@@ -374,6 +425,9 @@ aside{
     margin-left: 0;
     width: 32vw;
     height: 90vh;
+    }
+    .sideCard .btn:focus, .sideCard .btn:hover{
+        color: #7A1CAC;
     }
 
     /* main body view */
@@ -405,5 +459,17 @@ aside{
     }
     aside{
         display: block;
+    }
+    /* Project section */
+    .Projects{
+        padding-left: 4px;
+    }
+    .projects__row{
+        display: flex;
+        justify-content: space-between;
+    }
+    .projects__row-content{
+        margin: 0.5em;
+        margin-right: 0;
     }
 }
